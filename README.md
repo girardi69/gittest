@@ -1,4 +1,2 @@
-###  
-
-Second commit by kloi  
-Third commit by kloi  
+# First chapter
+we will have a conflict heres
