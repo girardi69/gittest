@@ -1,2 +1,2 @@
 # First chapter
-we will have a conflict heres
+This is the first chapter, where kloi will make a conflict
