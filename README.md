@@ -1,4 +1,2 @@
-###  
-
-Second commit by kloi  
-Third commit by kloi  
+# First Chapter
+This is the first chapter, where kloi will make a conflict
