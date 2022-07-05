@@ -8,3 +8,4 @@ kloi will make one comit and resolve the conflict
 second commit
 
 # DEV Chapter
+This is kloi working on dev
