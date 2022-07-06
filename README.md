@@ -10,3 +10,5 @@ second commit
 # DEV Chapter
 This is kloi working on dev
 this is andrea working on dev
+
+# Reducing Conflicts
