@@ -20,4 +20,4 @@ commit dev 64b
 commit f15
 
 Chapter #1
-this is the first line
+this is the first line, written by kloi
