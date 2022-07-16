@@ -26,3 +26,6 @@ this is the second line added by andrea
 Chapter #2
 this is the first line by andrea
 this dev branch seems properly updated
+
+Chapter #3
+Nel mezzo del cammin di nostra vita
